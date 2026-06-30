@@ -13,4 +13,4 @@ _multiconfig.yml
 !.dev.vars.example
 .env*
 !.env.example
-.vs/
+.vs
